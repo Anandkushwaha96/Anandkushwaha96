@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **Studying Computer Scince**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning DSA
 
 - 📫 How to reach me **learncoding691@gmail.com**
 
